@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link"
+			],
+			[
+				"emai",
+				"emailField"
+			],
+			[
+				"email",
+				"emailInput"
+			],
+			[
+				"err",
+				"error-icon"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"sho",
+				"pwShow"
+			],
+			[
+				"pw",
+				"pwShow"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"bx",
+				"bx-hide"
+			],
+			[
+				"S",
+				"script"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tran",
+				"translate()"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"colu",
+				"column-gap"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"f",
+				"field"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"image",
+				"image-orientation"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"m",
+				"marginheight\tAttr"
+			],
+			[
+				"ma",
+				"marginwidth\tAttr"
+			],
+			[
+				"vid",
+				"videos"
+			],
+			[
+				"vi",
+				"videos"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"bod",
+				"border\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tert",
+				"text-underline-position\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bo",
+				"bgcolor\tAttr"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"font-e",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/online-shopping-system-master/button.html",
+		"/G/online-shopping-system-master/btn.css",
+		"/C/xampp/htdocs/abc/database/onlineshop.sql",
+		"/C/xampp/htdocs/abc/db.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/User/Desktop/shopping/config.php",
+		"/C/Users/User/Desktop/shopping/create_product.php",
+		"/C/Users/User/Desktop/shopping/products.php",
+		"/C/Users/User/Desktop/shopping/style.css",
+		"/C/Users/User/Desktop/shopping/index.php",
+		"/C/Users/User/Desktop/shopping/checkout.php",
+		"/C/Users/User/Desktop/shopping/pay.php",
+		"/C/Users/User/Desktop/shopping/gateway_config.php",
+		"/C/Users/User/Desktop/shopping/verify.php",
+		"/C/Users/User/Desktop/shopping/payment.php",
+		"/C/Users/User/Desktop/shopping/online shopping.sublime-workspace",
+		"/C/Users/User/Desktop/shopping/p3.jsx",
+		"/C/Users/User/Desktop/shopping/p1.C",
+		"/C/Users/User/Desktop/shopping/s1.js",
+		"/C/Users/User/Desktop/shopping/c1.css",
+		"/C/Users/User/Desktop/shopping/h1.html",
+		"/C/Users/User/Desktop/INDEX.html",
+		"/C/Users/User/Desktop/indexstyle.css",
+		"/C/Users/User/Desktop/script.js",
+		"/C/Users/User/Desktop/loginpage.html",
+		"/C/Users/User/Desktop/css.html",
+		"/C/Users/User/Desktop/style1.css",
+		"/C/Users/User/Desktop/first.html",
+		"/C/Users/User/Desktop/p1.c",
+		"/C/Users/User/Desktop/style.css",
+		"/C/Users/User/Desktop/program.html",
+		"/C/Users/User/Desktop/javascript5.html",
+		"/C/Users/User/Desktop/javascript4.html",
+		"/C/Users/User/Desktop/javascript3.html",
+		"/C/Users/User/Documents/javascript2.html",
+		"/C/Users/User/Desktop/javacript1.html",
+		"/C/Users/User/Desktop/web with javascript.js",
+		"/C/Users/User/Desktop/videos.html",
+		"/C/Users/User/Desktop/STYLE.css",
+		"/C/Users/User/Desktop/web with javascript.css",
+		"/C/Users/User/Desktop/web with javascript.html",
+		"/C/Users/User/Desktop/firstProgram.cpp",
+		"/C/Users/User/Desktop/index.php",
+		"/C/Users/User/Desktop/HTML PROJECT/js.js",
+		"/C/Users/User/Desktop/STYLE (2).css",
+		"/C/Users/User/Desktop/STYLE.CSS.css",
+		"/C/Users/User/Desktop/INDEX.HTML.html",
+		"/C/Users/User/Desktop/login page style.css",
+		"/C/Users/User/Desktop/login page.html",
+		"/C/Users/User/Desktop/js.js",
+		"/C/Users/User/Desktop/HTML PROJECT/style1.css",
+		"/C/Users/User/Desktop/HTML PROJECT/web.html",
+		"/C/Users/User/Desktop/HTML PROJECT/style.css1",
+		"/C/Users/User/Desktop/index.html",
+		"/C/Users/User/Desktop/HTML PROJECT/position.css",
+		"/C/Users/User/Desktop/HTML PROJECT/style.css.txt",
+		"/C/Users/User/Desktop/html webpage by praveen.html",
+		"/C/Users/User/Desktop/index.html 1",
+		"/C/Users/User/Desktop/index.css",
+		"/C/Users/User/Desktop/sketch.jpg.jpg"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "logout.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
