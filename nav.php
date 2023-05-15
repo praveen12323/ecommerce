@@ -1,3 +1,11 @@
+<?php
+include "db.php";
+
+include "header.php";
+
+
+                         
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,13 +70,29 @@
      <div  id="btn_click">
          <a href="index.php">Continue to shopping</a>
              </div><br>
-
- <div  id="btn">
-         <a href="change_address.php">Change Address</a>
-             </div>
-
   
 	
 
 </body>
 </html>
+<?php
+ if (isset($_POST["updateAddress"])) {
+        $newAddress = $_POST["newAddress"];
+        $updateSql = "UPDATE orders_info SET address='$newAddress' WHERE user_id='$_SESSION[uid]'";
+        $updateQuery = mysqli_query($con, $updateSql);
+        if ($updateQuery) {
+            echo "Address updated successfully!";
+            // Update the address in the current session
+            $_SESSION["address"] = $newAddress;
+        } else {
+            echo "Failed to update address.";
+        }
+    }
+?>
+
+<!-- Add a form to update the address -->
+<form method="POST" action="">
+    <label for="newAddress">New Address:</label>
+    <input type="text" name="newAddress" id="newAddress" required>
+    <button type="submit" name="updateAddress">Update Address</button>
+</form>

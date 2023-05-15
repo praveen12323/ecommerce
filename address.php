@@ -1,5 +1,6 @@
 <?php
 // Database connection details
+session.start();
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -13,6 +14,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
+if(isset($.session['user_id'])){
 // Select one row from the database
 $sql = "SELECT * FROM orders_info WHERE user_id = '12' LIMIT 1";
 $result = $conn->query($sql);
@@ -26,29 +28,7 @@ if ($result->num_rows == 1) {
     $input3_value = $row["state"];
 } else {
     echo "0 results";
-}
-/*
-$addv = $_POST["address"];
-$cityv = $_POST["city"];
-$statev= $_POST["state"];
-*/
-$id = mysqli_real_escape_string($link, $_REQUEST['id']);
-$addv = mysqli_real_escape_string($link, $_REQUEST['address']);
-$cityv = mysqli_real_escape_string($link, $_REQUEST['city']);
-$statev = mysqli_real_escape_string($link, $_REQUEST['state']);
-
-$sql = "UPDATE orders_info SET  address='$addv' city='$cityv' state='$statev' WHERE user_id=12 ";
-
-if ($conn->query($sql) === TRUE) {
-    echo "Record updated successfully";
-} else {
-    echo "Error updating record: " . $conn->error;
-}
-
-$conn->close();
-?>
-
-
+}   
 
 
 
@@ -83,12 +63,3 @@ $conn->close();
                                 
                 </form>
                                 
-
-            
-          
-
-          
-        
-    
-
-      

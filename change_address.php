@@ -36,3 +36,35 @@ if (isset($_SESSION['user_id']) && isset($_POST['address'])) {
     // Handle the case where the user is not logged in or the address form is not submitted
 }
 ?>
+
+
+ <!-- /Billing Details -->
+            
+                <form id="signup_form" onsubmit="return false" class="login100-form">
+                  <div class="billing-details jumbotron">
+                                    <div class="section-title">
+                                        <h2 class="login100-form-title p-b-49" >Alternative Address</h2>
+                                    </div>
+                                    <div class="form-group ">
+                                    
+                                        <input class="input form-control input-borders" type="text" name="user_id" id="f_name" placeholder=" id" value="<?php echo $input1_value; ?>">
+                                    </div>
+                                    
+                                    
+                                    <div class="form-group">
+                                        <input class="input form-control input-borders" type="text" name="address" id="address1" placeholder="title" value="<?php echo $input2_value; ?>">
+                                    </div>
+                                 <!--   
+                                    <div class="form-group">
+                                        <input class="input form-control input-borders" type="text" name="state" id="address2" placeholder="City">
+                                    </div>
+                                    
+                                    -->
+                                    <div style="form-group">
+                                       <input class="primary-btn btn-block"  value="Update Adress" type="submit" name="update_button">
+                                    </div>
+                                </div>
+
+                                    
+                                
+                </form>

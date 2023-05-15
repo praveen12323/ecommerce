@@ -204,7 +204,7 @@ span.price {
 					<input type="hidden" name="total_price" value="'.$total.'">
 					  
                                <div class="checkout-btn">
-                                 <a href="nav.html">Continue to checkout</a>
+                                 <a href="nav.php">Continue to checkout</a>
                                 </div>
                                
 											
